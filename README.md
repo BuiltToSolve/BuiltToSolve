@@ -83,12 +83,58 @@ Over the past decade, I've engineered complex systems across multiple industries
 ### 📱 Published Apps on Google Play Store
 I love building tools that solve real-world daily problems. Check out my published Android applications:
 
-| App | Description | Link |
-| :--- | :--- | :--- |
-| ✈️ **Tripster** | Smart Expense Tracking for modern travelers | [View on Play Store](https://play.google.com/store/apps/details?id=com.rambler.tripster&pcampaignid=web_share) |
-| 🔐 **Key Vault** | Secure home for passwords, logins, and sensitive credentials | [View on Play Store](https://play.google.com/store/apps/details?id=com.rambler.pmapp&pcampaignid=web_share) |
-| 🔍 **QR Code Manager** | Scanner & manager with automatic history saving | [View on Play Store](https://play.google.com/store/apps/details?id=net.aksharma.qrcode&pcampaignid=web_share) |
-| 🪙 **Toss Coin** | Digital coin toss app featuring real motion physics | [View on Play Store](https://play.google.com/store/apps/details?id=com.rambler.tosscoin&pcampaignid=web_share) |
+<table width="100%">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.rambler.tripster">
+        <img src="images/tripster.webp" width="56" height="56" alt="Tripster" /><br />
+        <b>Tripster</b>
+      </a>
+      <br /><br />
+      Smart Expense Tracking for modern travelers
+      <br /><br />
+      <a href="https://play.google.com/store/apps/details?id=com.rambler.tripster">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
+      </a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.rambler.pmapp">
+        <img src="images/keyvault.webp" width="56" height="56" alt="Key Vault" /><br />
+        <b>Key Vault</b>
+      </a>
+      <br /><br />
+      Secure home for passwords, logins & credentials
+      <br /><br />
+      <a href="https://play.google.com/store/apps/details?id=com.rambler.pmapp">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
+      </a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=net.aksharma.qrcode">
+        <img src="images/qrcodemanager.webp" width="56" height="56" alt="QR Code Manager" /><br />
+        <b>QR Code Manager</b>
+      </a>
+      <br /><br />
+      Scanner & manager with automatic history
+      <br /><br />
+      <a href="https://play.google.com/store/apps/details?id=net.aksharma.qrcode">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
+      </a>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <a href="https://play.google.com/store/apps/details?id=com.rambler.tosscoin">
+        <img src="images/tosscoin.webp" width="56" height="56" alt="Toss Coin" /><br />
+        <b>Toss Coin</b>
+      </a>
+      <br /><br />
+      Digital coin toss app with real motion physics
+      <br /><br />
+      <a href="https://play.google.com/store/apps/details?id=com.rambler.tosscoin">
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
