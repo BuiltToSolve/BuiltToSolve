@@ -10,7 +10,7 @@ A seasoned engineering leader with over a decade of experience designing and sca
 ### 💻 Backend & APIs
 
 <p align="left">
-  <img src="images/net.svg" alt=".NET" title=".NET / .NET Core" width="42" height="42"/>
+  <img src="images/net.webp" alt=".NET" title=".NET / .NET Core" width="42" height="42"/>
   &nbsp;&nbsp;
   <img src="images/csharp.svg" alt="C#" title="C#" width="42" height="42"/>
   &nbsp;&nbsp;
