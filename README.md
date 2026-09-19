@@ -10,57 +10,57 @@ A seasoned engineering leader with over a decade of experience designing and sca
 ### 💻 Backend & APIs
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" title=".NET / .NET Core" width="42" height="42"/>
+  <img src="images/net.svg" alt=".NET" title=".NET / .NET Core" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="42" height="42"/>
+  <img src="images/csharp.svg" alt="C#" title="C#" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" title="GraphQL" width="42" height="42"/>
+  <img src="images/graphQL.svg" alt="GraphQL" title="GraphQL" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="42" height="42"/>
+  <img src="images/node.svg" alt="Node.js" title="Node.js" width="42" height="42"/>
 </p>
 
 ### 🎨 Frontend & Mobile
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React.js" width="42" height="42"/>
+  <img src="images/react.svg" alt="React" title="React.js" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="42" height="42"/>
+  <img src="images/next.svg" alt="Next.js" title="Next.js" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="42" height="42"/>
+  <img src="images/typescript.svg" alt="TypeScript" title="TypeScript" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="42" height="42"/>
+  <img src="images/javascript.svg" alt="JavaScript" title="JavaScript" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" title="React Native" width="42" height="42"/>
+  <img src="images/reactNative.svg" alt="React Native" title="React Native" width="42" height="42"/>
 </p>
 
 ### 🗄️ Databases & Data
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="Microsoft SQL Server" width="42" height="42"/>
+  <img src="images/sql.svg" alt="SQL Server" title="Microsoft SQL Server" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42"/>
+  <img src="images/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="42" height="42"/>
+  <img src="images/mongo.svg" alt="MongoDB" title="MongoDB" width="42" height="42"/>
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" title="Microsoft Azure" width="42" height="42"/>
+  <img src="images/azure.svg" alt="Azure" title="Microsoft Azure" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="Amazon Web Services" width="42" height="42"/>
+  <img src="images/aws.svg" alt="AWS" title="Amazon Web Services" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="42" height="42"/>
+  <img src="images/docker.svg" alt="Docker" title="Docker" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="42" height="42"/>
+  <img src="images/git.svg" alt="Git" title="Git" width="42" height="42"/>
 </p>
 
 ### 📊 Analytics & Platform
 
 <p align="left">
-  <img src="https://www.svgrepo.com/show/354427/tableau.svg" alt="Tableau" title="Tableau" width="42" height="42"/>
+  <img src="images/tableau.svg" alt="Tableau" title="Tableau" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase" width="42" height="42"/>
+  <img src="images/firebase.svg" alt="Firebase" title="Firebase" width="42" height="42"/>
 </p>
 
 ### 🧩 Architecture & Engineering
