@@ -10,57 +10,57 @@ A seasoned engineering leader with over a decade of experience designing and sca
 ### 💻 Backend & APIs
 
 <p align="left">
-  <img src="images/net.webp" alt=".NET" title=".NET / .NET Core" width="42" height="42"/>
+  <img src="assets/images/net.webp" alt=".NET" title=".NET / .NET Core" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/csharp.svg" alt="C#" title="C#" width="42" height="42"/>
+  <img src="assets/images/csharp.svg" alt="C#" title="C#" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/graphQL.svg" alt="GraphQL" title="GraphQL" width="42" height="42"/>
+  <img src="assets/images/graphQL.svg" alt="GraphQL" title="GraphQL" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/node.svg" alt="Node.js" title="Node.js" width="42" height="42"/>
+  <img src="assets/images/node.svg" alt="Node.js" title="Node.js" width="42" height="42"/>
 </p>
 
 ### 🎨 Frontend & Mobile
 
 <p align="left">
-  <img src="images/react.svg" alt="React" title="React.js" width="42" height="42"/>
+  <img src="assets/images/react.svg" alt="React" title="React.js" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/next.svg" alt="Next.js" title="Next.js" width="42" height="42"/>
+  <img src="assets/images/next.svg" alt="Next.js" title="Next.js" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/typescript.svg" alt="TypeScript" title="TypeScript" width="42" height="42"/>
+  <img src="assets/images/typescript.svg" alt="TypeScript" title="TypeScript" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/javascript.svg" alt="JavaScript" title="JavaScript" width="42" height="42"/>
+  <img src="assets/images/javascript.svg" alt="JavaScript" title="JavaScript" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/reactNative.svg" alt="React Native" title="React Native" width="42" height="42"/>
+  <img src="assets/images/reactNative.svg" alt="React Native" title="React Native" width="42" height="42"/>
 </p>
 
 ### 🗄️ Databases & Data
 
 <p align="left">
-  <img src="images/sql.svg" alt="SQL Server" title="Microsoft SQL Server" width="42" height="42"/>
+  <img src="assets/images/sql.svg" alt="SQL Server" title="Microsoft SQL Server" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42"/>
+  <img src="assets/images/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/mongo.svg" alt="MongoDB" title="MongoDB" width="42" height="42"/>
+  <img src="assets/images/mongo.svg" alt="MongoDB" title="MongoDB" width="42" height="42"/>
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
 
 <p align="left">
-  <img src="images/azure.svg" alt="Azure" title="Microsoft Azure" width="42" height="42"/>
+  <img src="assets/images/azure.svg" alt="Azure" title="Microsoft Azure" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/aws.svg" alt="AWS" title="Amazon Web Services" width="42" height="42"/>
+  <img src="assets/images/aws.svg" alt="AWS" title="Amazon Web Services" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/docker.svg" alt="Docker" title="Docker" width="42" height="42"/>
+  <img src="assets/images/docker.svg" alt="Docker" title="Docker" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/git.svg" alt="Git" title="Git" width="42" height="42"/>
+  <img src="assets/images/git.svg" alt="Git" title="Git" width="42" height="42"/>
 </p>
 
 ### 📊 Analytics & Platform
 
 <p align="left">
-  <img src="images/tableau.svg" alt="Tableau" title="Tableau" width="42" height="42"/>
+  <img src="assets/images/tableau.svg" alt="Tableau" title="Tableau" width="42" height="42"/>
   &nbsp;&nbsp;
-  <img src="images/firebase.svg" alt="Firebase" title="Firebase" width="42" height="42"/>
+  <img src="assets/images/firebase.svg" alt="Firebase" title="Firebase" width="42" height="42"/>
 </p>
 
 ### 🧩 Architecture & Engineering
@@ -87,7 +87,7 @@ I love building tools that solve real-world daily problems. Check out my publish
   <tr>
     <td width="25%" align="center" valign="top">
       <a href="https://play.google.com/store/apps/details?id=com.rambler.tripster">
-        <img src="images/tripster.webp" width="56" height="56" alt="Tripster" /><br />
+        <img src="assets/images/tripster.png" width="56" height="56" alt="Tripster" /><br />
         <b>Tripster</b>
       </a>
       <br /><br />
@@ -99,7 +99,7 @@ I love building tools that solve real-world daily problems. Check out my publish
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://play.google.com/store/apps/details?id=com.rambler.pmapp">
-        <img src="images/keyvault.webp" width="56" height="56" alt="Key Vault" /><br />
+        <img src="assets/images/keyvault.webp" width="56" height="56" alt="Key Vault" /><br />
         <b>Key Vault</b>
       </a>
       <br /><br />
@@ -111,7 +111,7 @@ I love building tools that solve real-world daily problems. Check out my publish
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://play.google.com/store/apps/details?id=net.aksharma.qrcode">
-        <img src="images/qrcodemanager.webp" width="56" height="56" alt="QR Code Manager" /><br />
+        <img src="assets/images/qrcodemanager.webp" width="56" height="56" alt="QR Code Manager" /><br />
         <b>QR Code Manager</b>
       </a>
       <br /><br />
@@ -123,7 +123,7 @@ I love building tools that solve real-world daily problems. Check out my publish
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://play.google.com/store/apps/details?id=com.rambler.tosscoin">
-        <img src="images/tosscoin.webp" width="56" height="56" alt="Toss Coin" /><br />
+        <img src="assets/images/tosscoin.webp" width="56" height="56" alt="Toss Coin" /><br />
         <b>Toss Coin</b>
       </a>
       <br /><br />
