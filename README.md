@@ -123,7 +123,7 @@ I love building tools that solve real-world daily problems. Check out my publish
     </td>
     <td width="25%" align="center" valign="top">
       <a href="https://play.google.com/store/apps/details?id=com.rambler.tosscoin">
-        <img src="assets/images/tosscoin.webp" width="56" height="56" alt="Toss Coin" /><br />
+        <img src="assets/images/tossCoin.webp" width="56" height="56" alt="Toss Coin" /><br />
         <b>Toss Coin</b>
       </a>
       <br /><br />
