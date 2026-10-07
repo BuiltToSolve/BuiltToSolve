@@ -1,7 +1,7 @@
 # Hi there, I'm Abhishek Sharma 👋
-### Lead Engineer @ IRIS Software Inc. | Full-Stack Architect (10+ YOE)
+### Project Lead @ IRIS Software Inc. | Full-Stack Architect (10+ YOE)
 
-A seasoned engineering leader with over a decade of experience designing and scaling resilient enterprise software. I specialize in building high-throughput backend services with **.NET / MSSQL** and modern, responsive frontend architectures with **React.js / Next.js**, deployed on **AWS**.
+A seasoned engineering professional with over a decade of experience designing and scaling resilient enterprise software. I specialize in building high-throughput backend services with **.NET / MSSQL** and modern, responsive frontend architectures with **React.js / Next.js**, deployed on **AWS**.
 
 ---
 
