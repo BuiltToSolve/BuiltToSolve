@@ -110,14 +110,14 @@ I love building tools that solve real-world daily problems. Check out my publish
       </a>
     </td>
     <td width="25%" align="center" valign="top">
-      <a href="https://play.google.com/store/apps/details?id=net.aksharma.qrcode">
-        <img src="assets/images/qrcodemanager.webp" width="56" height="56" alt="QR Code Manager" /><br />
-        <b>QR Code Manager</b>
+      <a href="https://play.google.com/store/apps/details?id=com.rambler.gymai">
+        <img src="assets/images/gym_ai_logo.png" width="56" height="56" alt="Gym AI" /><br />
+        <b>Gym AI</b>
       </a>
       <br /><br />
-      Scanner & manager with automatic history
+      AI powered Workout & Diet Planner
       <br /><br />
-      <a href="https://play.google.com/store/apps/details?id=net.aksharma.qrcode">
+      <a href="https://play.google.com/store/apps/details?id=com.rambler.gymai">
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white" alt="Google Play" />
       </a>
     </td>
